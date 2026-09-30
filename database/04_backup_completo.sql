@@ -1,0 +1,3 @@
+-- Banco: eventos_db
+-- Tabelas: eventos, palestrantes, evento_palestrantes
+-- View: vw_eventos_com_palestrantes
