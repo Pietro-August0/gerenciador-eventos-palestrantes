@@ -1,4 +1,4 @@
--- Estrutura do banco - PostgreSQL
+-- Estrutura do banco em PostgreSQL
 
 DROP VIEW IF EXISTS vw_eventos_com_palestrantes;
 

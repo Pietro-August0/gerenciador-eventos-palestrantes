@@ -1,4 +1,4 @@
--- View para listar eventos com seus palestrantes
+-- Listar eventos com seus palestrantes
 
 CREATE OR REPLACE VIEW vw_eventos_com_palestrantes AS
 SELECT
